@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="e665f595-594a-45c3-bfcd-ce385da139f6" Scope="Site" Title="SocialRatingWebPart Feature1">
+  <ElementManifests>
+    <ElementManifest Location="SocialRatingData\Elements.xml" />
+    <ElementFile Location="SocialRatingData\SocialRatingData.webpart" />
+  </ElementManifests>
+</Feature>

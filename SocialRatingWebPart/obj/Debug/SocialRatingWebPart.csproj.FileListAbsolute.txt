@@ -1,0 +1,6 @@
+C:\Users\dclelland.LASTERGROUP\documents\visual studio 11\Projects\SocialRatingWebPart\SocialRatingWebPart\obj\Debug\SocialRatingWebPart.csprojResolveAssemblyReference.cache
+C:\Users\dclelland.LASTERGROUP\documents\visual studio 11\Projects\SocialRatingWebPart\SocialRatingWebPart\bin\Debug\SocialRatingWebPart.dll
+C:\Users\dclelland.LASTERGROUP\documents\visual studio 11\Projects\SocialRatingWebPart\SocialRatingWebPart\bin\Debug\SocialRatingWebPart.pdb
+C:\Users\dclelland.LASTERGROUP\documents\visual studio 11\Projects\SocialRatingWebPart\SocialRatingWebPart\bin\Debug\Microsoft.Sharepoint.Sandbox.dll
+C:\Users\dclelland.LASTERGROUP\documents\visual studio 11\Projects\SocialRatingWebPart\SocialRatingWebPart\obj\Debug\SocialRatingWebPart.dll
+C:\Users\dclelland.LASTERGROUP\documents\visual studio 11\Projects\SocialRatingWebPart\SocialRatingWebPart\obj\Debug\SocialRatingWebPart.pdb

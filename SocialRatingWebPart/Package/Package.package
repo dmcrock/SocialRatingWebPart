@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="f32ac91c-40d8-439b-95aa-3e18e17386e6" solutionId="f32ac91c-40d8-439b-95aa-3e18e17386e6" resetWebServer="false" name="SocialRatingWebPart" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="5363a828-b0e0-4bea-9cd9-b43d6e699e09" />
+  </features>
+</package>

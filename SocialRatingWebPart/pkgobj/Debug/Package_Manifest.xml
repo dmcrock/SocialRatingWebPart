@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="f32ac91c-40d8-439b-95aa-3e18e17386e6" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="SocialRatingWebPart.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="SocialRatingWebPart, Version=1.0.0.0, Culture=neutral, PublicKeyToken=be0350fffd884f2c" Namespace="SocialRatingWebPart.SocialRatingData" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="SocialRatingWebPart_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>
